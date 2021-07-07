@@ -5,7 +5,7 @@ rds = input('Enter the magnitude of radius of your circle :');
 n = input('Enter the number of points of your circle :');
 styl = input('Enter the style of your circle with '''' :');
 
-MyCircle(ctr,rds,n,styl);%slakkdkasj
+MyCircle(ctr,rds,n,styl);
 
 function MyCircle(ctr,rds,n,styl)
 x = ctr(1);
