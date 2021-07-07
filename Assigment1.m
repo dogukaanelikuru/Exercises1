@@ -1,4 +1,3 @@
-%yasin
 
 clear
 clc
