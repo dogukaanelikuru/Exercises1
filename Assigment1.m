@@ -1,3 +1,5 @@
+%yasin
+
 clear
 clc
 temp=[10 19;11 22;12 20;13 21]
