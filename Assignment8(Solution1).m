@@ -8,7 +8,7 @@ rds=input("Enter radius of your circle:  ");
 nop=input("Enternumber of points on circle: ");
 styl=input("Enter style of your circle: e.g.: 'r-' or 'm--' or 'k-.' : ");
 
-MyCircle(ctr,rds,nop,styl)
+MyCircle(ctr,rds,nop,styl)%comment
 
 function [a] = MyCircle(ctr,rds,nop,styl)
     a=ctr(1,1);%x point of center
