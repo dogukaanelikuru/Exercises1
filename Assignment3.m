@@ -10,5 +10,3 @@ B=0.2
 sigma=a*exp(-B*X).*(sin(t*X).*cos(f*Y))
 mesh(X,Y,sigma)
 grid on
-
-%yasin
