@@ -3,11 +3,11 @@
 
 Group 2 Members:
 
-Mustafa Doğukaan Elikuru---------------dogukaanelikuru@gmail.com
-Mehmet Yücel Sarıtaş----------mehmetyucelsaritas19@gmail.com
-Turgut Toprakçı---------------ttoprakci68@gmail.com
-Yasin Gürbüz------------------yasin12321gurbuz@gmail.com
-Zeynep Sude Meşe--------------zeynepsude.mese54@gmail.com
+Mustafa Doğukaan Elikuru---------------dogukaanelikuru@gmail.com<br />
+Mehmet Yücel Sarıtaş----------mehmetyucelsaritas19@gmail.com<br />
+Turgut Toprakçı---------------ttoprakci68@gmail.com<br />
+Yasin Gürbüz------------------yasin12321gurbuz@gmail.com<br />
+Zeynep Sude Meşe--------------zeynepsude.mese54@gmail.com<br />
 
 
 
