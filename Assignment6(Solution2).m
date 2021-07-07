@@ -8,4 +8,3 @@ function m = identitymatrix(n)
 m=eye(n,n)
 end
 
-%turgut
