@@ -28,3 +28,5 @@ clear
     function celc=fahtocelc(f)
     celc =(f-32)*5/9  
     end
+    
+    %yasin
