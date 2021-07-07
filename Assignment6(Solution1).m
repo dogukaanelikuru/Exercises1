@@ -1,7 +1,7 @@
 clc
 clear
-n=input("Enter the n value to generate an identity matrix: ")
-idmat(n)
+n=input("Enter the n value to generate an identity matrix: ");
+identitymatrix = idmat(n)
 
 function mat = idmat(n)
     mat = zeros(n);
