@@ -1,7 +1,7 @@
 clc
 clear
 ctr=zeros(1,2);
-
+%burayı silin
 ctr(1,1)=input("Enter the x value of your center: ");
 ctr(1,2)=input("Enter the y value of your center: ");
 rds=input("Enter radius of your circle:  ");
