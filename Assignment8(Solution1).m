@@ -9,7 +9,7 @@ nop=input("Enternumber of points on circle: ");
 styl=input("Enter style of your circle: e.g.: 'r-' or 'm--' or 'k-.' : ");
 
 MyCircle(ctr,rds,nop,styl)
-
+%
 function [a] = MyCircle(ctr,rds,nop,styl)
     a=ctr(1,1);%x point of center
     b=ctr(1,2);%y point of center
